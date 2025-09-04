@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there :v:
 
 My name is Jaren, and I recently graduated form a coding bootcamp through Tech Elevator!
 
