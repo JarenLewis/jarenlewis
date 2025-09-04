@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there 👋
+
+My name is Jaren, and I recently graduated form a coding bootcamp through Tech Elevator!
+
+- 🔭 I’m currently working on ([DarkMagic](https://github.com/JarenLewis/Tech-Projects/tree/a2688a329b7a3286985a761118d8aacbf7b8a181/DarkMagic)), building a conversion application for multiple units. 
 
 <!--
 **JarenLewis/jarenlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
