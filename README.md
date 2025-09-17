@@ -2,9 +2,9 @@
 
 My name is Jaren, and I recently graduated form a coding bootcamp through Tech Elevator!
 
-- :8ball: I’m currently working on ([DarkMagic](https://github.com/JarenLewis/Tech-Projects/tree/a2688a329b7a3286985a761118d8aacbf7b8a181/DarkMagic)), building a Magic 8 Ball program that gives a randomized answer to your yes or no question. 
-
-
+- I’m currently working on
+-   🎱 ([DarkMagic](https://github.com/JarenLewis/DarkMagic)), a Magic 8 Ball program that gives a randomized answer to your yes or no question.
+-   🪙 ([HeadsOrTails](https://github.com/JarenLewis/HeadsOrTails)), a program that takes the place of a physical coin which randomizes between heads or tails.
 
 <!--
 
