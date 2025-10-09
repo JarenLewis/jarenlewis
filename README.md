@@ -5,6 +5,7 @@ My name is Jaren, and I recently graduated form a coding bootcamp through Tech E
 - I’m currently working on
 -   🎱 ([DarkMagic](https://github.com/JarenLewis/DarkMagic)), a Magic 8 Ball program that gives a randomized answer to your yes or no question.
 -   🪙 ([HeadsOrTails](https://github.com/JarenLewis/HeadsOrTails)), a program that takes the place of a physical coin which randomizes between heads or tails.
+-   ([ConversionProgram](https://github.com/JarenLewis/Conversions)), a program that converts different units. 
 
 <!--
 
